@@ -1,0 +1,8 @@
+Task -8
+
+Sales Insights – Superstore Dashboard
+
+1. The West region recorded the highest sales, especially in Q3.
+2. Technology category contributed the largest share of total revenue.
+3. Sales showed an upward trend from Jan to Nov 2023.
+4. The Central region consistently underperformed compared to others.
